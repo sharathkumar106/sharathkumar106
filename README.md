@@ -45,13 +45,21 @@
 
 ### Languages and Tools:
 
-![C](https://user-images.githubusercontent.com/33835670/91864972-8212c200-ec8e-11ea-876c-8e4c7f474112.png)
-![java](https://user-images.githubusercontent.com/33835670/91864986-84751c00-ec8e-11ea-9177-8708a889d7e1.jpg)
-![python](https://user-images.githubusercontent.com/33835670/91865255-d1f18900-ec8e-11ea-8048-e56a80cd9194.png)
-![android](https://user-images.githubusercontent.com/33835670/91864950-7e7f3b00-ec8e-11ea-9a20-76d1186b7141.png)
-![C#](https://user-images.githubusercontent.com/33835670/91864965-80e19500-ec8e-11ea-9dcb-4cb2b916a73d.png)
-![html](https://user-images.githubusercontent.com/33835670/91864978-83dc8580-ec8e-11ea-9c09-fe52b4521796.png)
-![css3](https://user-images.githubusercontent.com/33835670/91864974-82ab5880-ec8e-11ea-9c62-0cba9c6f8364.png)
-![vs](https://user-images.githubusercontent.com/33835670/91865259-d3bb4c80-ec8e-11ea-9d80-a7fd875fd022.png)
-![js](https://user-images.githubusercontent.com/33835670/91864989-85a64900-ec8e-11ea-90b7-a0bcb6138166.png)
+
+![c-programming](https://user-images.githubusercontent.com/33835670/91869597-b8067500-ec93-11ea-9ebb-20a2e9593b56.png)
+![c-sharp](https://user-images.githubusercontent.com/33835670/91869593-b63cb180-ec93-11ea-9eb6-28271c47c066.png)
+![java](https://user-images.githubusercontent.com/33835670/91869645-c359a080-ec93-11ea-831b-5702d5bf2a98.png)
+![android](https://user-images.githubusercontent.com/33835670/91869602-b937a200-ec93-11ea-96cb-b0beb52b5327.png)
+![python](https://user-images.githubusercontent.com/33835670/91869629-bf2d8300-ec93-11ea-9b3a-e50863398c3c.png)
+![php](https://user-images.githubusercontent.com/33835670/91869635-bfc61980-ec93-11ea-9e40-01023d5571d1.png)
+![mysql](https://user-images.githubusercontent.com/33835670/91869640-c0f74680-ec93-11ea-863e-26243d91dc00.png)
+![javascript](https://user-images.githubusercontent.com/33835670/91869644-c2287380-ec93-11ea-85e6-b0abfd85b9bb.png)
+![html5](https://user-images.githubusercontent.com/33835670/91869650-c3f23700-ec93-11ea-9794-9ca046e0ee84.png)
+![css3](https://user-images.githubusercontent.com/33835670/91869667-c6ed2780-ec93-11ea-9eba-cd5064e7a9cd.png)
+![git](https://user-images.githubusercontent.com/33835670/91869661-c6549100-ec93-11ea-8968-634939a68e8b.png)
+![heroku](https://user-images.githubusercontent.com/33835670/91869657-c5236400-ec93-11ea-8ce4-3991cb2bb298.png)
+![adobe](https://user-images.githubusercontent.com/33835670/91869606-ba68cf00-ec93-11ea-8d67-fa7aa9f8a31d.png)
+![visual-studio](https://user-images.githubusercontent.com/33835670/91869610-bb99fc00-ec93-11ea-81a5-2c28a24caa8d.png)
+![ubuntu](https://user-images.githubusercontent.com/33835670/91869618-bccb2900-ec93-11ea-9360-c9a92594e0d8.png)
+![trello](https://user-images.githubusercontent.com/33835670/91869624-bdfc5600-ec93-11ea-99b2-e169a562ab1e.png)
 
