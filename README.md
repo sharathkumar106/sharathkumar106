@@ -1,5 +1,5 @@
 ## Ahem! Ahem! Hi there 👋... This is me in a README!
-[![Header](https://raw.githubusercontent.com/sharathkumar106/res/readme_header.jpeg "Header")]             
+[![Header](https://raw.githubusercontent.com/sharathkumar106/res/GitHubHeader.jpeg "Header")]             
 ##
 ### I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Networking and Cybersecurity is where I'll end up in near futrure! Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
 
@@ -16,12 +16,12 @@
 
 <!-- display the social media buttons in your README -->
 ## Let's have a virtual coffee! Shall we?
-[![alt text][facebook]][1]
-[![alt text][instagram]][2]
-[![alt text][twitter]][3]
-[![alt text][linkedin]][6]
-[![alt text][whatsapp]][6]
-[![alt text][github]][6]
+[![alt text][facebook]][fb]
+[![alt text][instagram]][insta]
+[![alt text][twitter]][twitr]
+[![alt text][linkedin]][linkdin]
+[![alt text][whatsapp]][wapp]
+[![alt text][github]][git]
 
 <!-- icons with padding -->
 
@@ -38,10 +38,10 @@
 
 [fb]: https://www.facebook.com/SharathKumar806
 [insta]: https://www.instagram.com/sharath.kumar.10.6
-[twitter]: https://twitter.com/sharathkumar106
-[linkedin]: https://www.linkedin.com/in/sharathkumarkr
-[whatsapp]: tel:+918762316806
-[github]: http://www.github.com/sharathkumar106
+[twitr]: https://twitter.com/sharathkumar106
+[linkdin]: https://www.linkedin.com/in/sharathkumarkr
+[wapp]: tel:+918762316806
+[git]: http://www.github.com/sharathkumar106
 
 
 
