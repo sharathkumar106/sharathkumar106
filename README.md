@@ -11,12 +11,15 @@
 - 🤔 I would appreciate some guidance for an effective boost to my career. 
 - ⚡ Fun fact: Ha ha ha! Keep Laughing!!
 
-![Sharath's github stats](https://github-readme-stats.vercel.app/api?username=sharathkumar106&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathkumar106&theme=dracula&layout=compact)](https://github.com/sharathkumar106/github-readme-stats)
 
 <!-- display the social media buttons in your README -->
 ## Let's have a virtual coffee! Shall we?
-[![Facebook][facebook]][fb] [![Instagram][instagram]][insta] [![Twitter][twitter]][twitr] [![LinkedIn][linkedin]][linkdin] [![Whatsapp][whatsapp]][wapp] [![Github][github]][git]
+[![Facebook][facebook]][fb]
+[![Instagram][instagram]][insta]
+[![Twitter][twitter]][twitr]
+[![LinkedIn][linkedin]][linkdin]
+[![Whatsapp][whatsapp]][wapp]
+[![Github][github]][git]
 
 <!-- icons with padding -->
 
