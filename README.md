@@ -1,9 +1,9 @@
 ## _Ahem! Ahem!_ Hi there 👋... This is _me_ in a _README_!
 ![GitHubHeader](https://user-images.githubusercontent.com/33835670/91859637-51c82500-ec88-11ea-82db-d3f3aadfb75c.jpg)
 
-### I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Networking and Cybersecurity is where I'll end up in near futrure! Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
+## I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Networking and Cybersecurity is where I'll end up in near futrure! Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
 
-**Graduated recently, on my way to build a career!**
+#### **Graduated recently, on my way to build a career!**
 
 - 🔭 I’m currently looking for opprtunities to enhance my skills and collaborate on web based projects
 - 🌱 I’m currently learning React.js, Design, Android Development, Node.js
@@ -11,40 +11,22 @@
 - 🤔 I would appreciate some guidance for an effective boost to my career. 
 - ⚡ Fun fact: Ha ha ha! Keep Laughing!!
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!-- display the social media buttons in your README -->
 ## Let's have a virtual coffee! Shall we?
+
 [![Facebook][facebook]][fb]
 [![Instagram][instagram]][insta]
 [![Twitter][twitter]][twitr]
 [![LinkedIn][linkedin]][linkdin]
+[![Gmail][gmail]][gm]
+[![Medium][medium]][med]
 [![Whatsapp][whatsapp]][wapp]
+[![Telegram][telegram]][tele]
 [![Github][github]][git]
-
-<!-- icons with padding -->
-
-[facebook]: https://i.imgur.com/XHRp74r.png
-[instagram]: https://i.imgur.com/SahBj8X.png
-[twitter]: https://i.imgur.com/Brc1sfX.png
-[linkedin]: https://i.imgur.com/fAoSe22.png
-[whatsapp]: https://i.imgur.com/jpVIJp5.png
-[github]: https://i.imgur.com/fSvf3VC.png
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[fb]: https://www.facebook.com/SharathKumar806
-[insta]: https://www.instagram.com/sharath.kumar.10.6
-[twitr]: https://twitter.com/sharathkumar106
-[linkdin]: https://www.linkedin.com/in/sharathkumarkr
-[wapp]: https://wa.link/ig436n
-[git]: http://www.github.com/sharathkumar106
-
-
+[![Quora][quora]][quo]
 
 ### Languages and Tools:
-
 
 ![c-programming](https://user-images.githubusercontent.com/33835670/91869597-b8067500-ec93-11ea-9ebb-20a2e9593b56.png)
 ![c-sharp](https://user-images.githubusercontent.com/33835670/91869593-b63cb180-ec93-11ea-9eb6-28271c47c066.png)
@@ -63,3 +45,32 @@
 ![ubuntu](https://user-images.githubusercontent.com/33835670/91869618-bccb2900-ec93-11ea-9360-c9a92594e0d8.png)
 ![trello](https://user-images.githubusercontent.com/33835670/91869624-bdfc5600-ec93-11ea-99b2-e169a562ab1e.png)
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!-- icons -->
+
+[facebook]: https://i.imgur.com/peYvvOm.png
+[instagram]: https://i.imgur.com/BLjackD.png
+[twitter]: https://i.imgur.com/0brtl0R.png
+[linkedin]: https://i.imgur.com/LAMjC1S.png
+[gmail]: https://i.imgur.com/zjv7UAs.png
+[medium]: https://i.imgur.com/2d4IOuR.png
+[whatsapp]: https://i.imgur.com/HfUuhFm.png
+[telegram]: https://i.imgur.com/K1qbgOV.png
+[github]: https://i.imgur.com/xsA4OWM.png
+[quora]:https://i.imgur.com/we0Qpvf.png
+
+<!-- links to social media accounts -->
+
+[fb]: https://www.facebook.com/SharathKumar806
+[insta]: https://www.instagram.com/sharath.kumar.10.6
+[twitr]: https://twitter.com/sharathkumar106
+[linkdin]: https://www.linkedin.com/in/sharathkumarkr
+[gm]: https://mail.google.com/mail/
+[med]: https://medium.com/@whitemicrophone10
+[wapp]: https://wa.link/ig436n
+[tele]: https://t.me/sharathk98
+[git]: http://www.github.com/sharathkumar106
+[quo]: https://www.quora.com/profile/White-Microphone
