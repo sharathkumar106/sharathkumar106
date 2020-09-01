@@ -1,5 +1,5 @@
 ## Ahem! Ahem! Hi there 👋... This is me in a README!
-[![Header](https://github.com/sharathkumar106/sharathkumar106/blob/master/res/GitHubHeader.jpg "Header")]             
+![Header](https://github.com/sharathkumar106/sharathkumar106/blob/master/res/GitHubHeader.jpg "Header")
 ##
 ### I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Networking and Cybersecurity is where I'll end up in near futrure! Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
 
@@ -11,7 +11,7 @@
 - 🤔 I would appreciate some guidance for an effective boost to my career. 
 - ⚡ Fun fact: Ha ha ha! Keep Laughing!!
 
-![Sharath's github stats](https://github-readme-stats.vercel.app/api?username=sharathkumar106&show_icons=true&theme=dracula) 
+![Sharath's github stats](https://github-readme-stats.vercel.app/api?username=sharathkumar106&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathkumar106&theme=dracula&layout=compact)](https://github.com/sharathkumar106/github-readme-stats)
 
 <!-- display the social media buttons in your README -->
@@ -25,7 +25,7 @@
 
 <!-- icons with padding -->
 
-[facebook]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[facebook]: <image xlink:href="fb.svg" src="http://i.imgur.com/P3YfQoD.png" width="14" height="24"/>  (twitter icon with padding)
 [instagram]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [twitter]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [linkedin]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
