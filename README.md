@@ -1,5 +1,5 @@
 ## Ahem! Ahem! Hi there 👋... This is me in a README!
-[![Header](https://raw.githubusercontent.com/sharathkumar106/res/GitHubHeader.jpeg "Header")]             
+[![Header](https://github.com/sharathkumar106/sharathkumar106/blob/master/res/GitHubHeader.jpg "Header")]             
 ##
 ### I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Networking and Cybersecurity is where I'll end up in near futrure! Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
 
@@ -28,7 +28,7 @@
 [facebook]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [instagram]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [twitter]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[likedin]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[linkedin]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [whatsapp]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [github]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
