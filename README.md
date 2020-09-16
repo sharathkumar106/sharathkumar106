@@ -6,10 +6,9 @@
 #### **Graduated recently, on my way to build a career!**
 
 - 🔭 I’m currently looking for opprtunities to enhance my skills and collaborate on web based projects
-- 🌱 I’m currently learning React.js, Design, Android Development, Node.js
-- 👯 I’m looking to collaborate on Full Stack Development and Design Proects
+- 🌱 I’m currently learning React.js, Python, Java, Android Development, Node.js
 - 🤔 I would appreciate some guidance for an effective boost to my career. 
-- ⚡ Fun fact: Ha ha ha! Keep Laughing!!
+- ⚡ Fun fact: Ha ha ha! Keep Laughing! Keep Coding!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
