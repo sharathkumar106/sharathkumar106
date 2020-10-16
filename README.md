@@ -1,6 +1,8 @@
 ## Hi there 👋... This is _me_ in a _README_!
 ![GitHubHeader](https://user-images.githubusercontent.com/33835670/91859637-51c82500-ec88-11ea-82db-d3f3aadfb75c.jpg)
 
+<img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
+
 ## I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Networking and Cybersecurity is where I'll end up in near futrure! Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
 
 #### **Graduated recently, on my way to build a career!**
