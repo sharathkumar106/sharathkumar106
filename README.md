@@ -3,12 +3,12 @@
 
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 
-## I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Networking and Cybersecurity is where I'll end up in near futrure! Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
+## I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
 
 #### **Graduated recently, on my way to build a career!**
 
 - 🔭 I’m currently looking for opprtunities to enhance my skills and collaborate on web based projects
-- 🌱 I’m currently learning React.js, Python, Java, Android Development, Node.js
+- 🌱 I’m currently working on AngularJS, Typescript, Python, Java, Android Development, Node.js
 - 🤔 I would appreciate some guidance for an effective boost to my career. 
 - ⚡ Fun fact: Ha ha ha! Keep Laughing! Keep Coding!
 
