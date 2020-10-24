@@ -82,10 +82,6 @@
 <hr/>
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sharathkumar-kr&label=%20PROFILE%20VIEWS%20&color=blue&style=flat-square" alt="sharathkumar-kr"/> </p>
-
-<hr/>
-
 ## Let's have a virtual coffee! Shall we?
 
 [![Facebook][facebook]][fb]
