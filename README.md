@@ -1,7 +1,6 @@
 ![Github Profile](https://user-images.githubusercontent.com/33835670/97077985-0ab23c80-1606-11eb-9f6f-6cfbc6c8c23a.gif)
 
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sharathkumar-kr&label=%20PROFILE%20VIEWS%20&color=blue&style=flat-square" alt="sharathkumar-kr"/> </p>
 <hr/>
 <br>
 
@@ -83,6 +82,10 @@
 <hr/>
 <br>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sharathkumar-kr&label=%20PROFILE%20VIEWS%20&color=blue&style=flat-square" alt="sharathkumar-kr"/> </p>
+
+<hr/>
+
 ## Let's have a virtual coffee! Shall we?
 
 [![Facebook][facebook]][fb]
@@ -97,6 +100,10 @@
 [![Quora][quora]][quo]
 
 </hr>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sharathkumar-kr&label=%20PROFILE%20VIEWS%20&color=blue&style=flat-square" alt="sharathkumar-kr"/> </p>
+
+<hr/>
 
 <!-- icons -->
 
