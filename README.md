@@ -1,3 +1,5 @@
+<br>
+
 ![Github Profile](https://user-images.githubusercontent.com/33835670/97077985-0ab23c80-1606-11eb-9f6f-6cfbc6c8c23a.gif)
 
 <br>
@@ -6,9 +8,7 @@
 
 <h2>I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday. </h2>
 
-<br>
 <hr/>
-<br>
 
 - 🔭 I’m currently working on **Web Development Projects**
 
@@ -78,9 +78,7 @@
         target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
             height="40" /> </a> </p>
 
-<br>
 <hr/>
-<br>
 
 ## Let's have a virtual coffee! Shall we?
 
@@ -95,7 +93,7 @@
 [![Github][github]][git]
 [![Quora][quora]][quo]
 
-</hr>
+<hr/>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sharathkumar-kr&label=%20PROFILE%20VIEWS%20&color=blue&style=flat-square" alt="sharathkumar-kr"/> </p>
 
