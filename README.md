@@ -1,5 +1,7 @@
-<img align="left" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
-<img align="right" src="https://media.giphy.com/media/sQNHRc6Y7MsQm7RAt9/giphy.gif">
+<img align="left" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="380">
+<img src="https://media.giphy.com/media/sQNHRc6Y7MsQm7RAt9/giphy.gif">
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
 
