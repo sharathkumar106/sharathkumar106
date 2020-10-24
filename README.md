@@ -4,7 +4,6 @@
 
 <br>
 <hr/>
-<br>
 
 <h2>I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday. </h2>
 
@@ -22,9 +21,7 @@
 
 - ⚡ Fun fact **Programming is the best medicine!**
 
-<br>
 <hr/>
-<br>
 
 ## Languages and Tools
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img
