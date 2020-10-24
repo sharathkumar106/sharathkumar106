@@ -1,18 +1,32 @@
-<img align="left" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
-<img align="center" src="https://media.giphy.com/media/sQNHRc6Y7MsQm7RAt9/giphy.gif" width="500">
+![Github Profile](https://user-images.githubusercontent.com/33835670/97077985-0ab23c80-1606-11eb-9f6f-6cfbc6c8c23a.gif)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
+<hr/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sharathkumar-kr&label=%20PROFILE%20VIEWS%20&color=blue&style=flat-square" alt="sharathkumar-kr"/> </p>
+<hr/>
+<br>
 
 ## I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
 
-#### **Graduated recently, on my way to build a career!**
+<br>
+<hr/>
+<br>
 
-- 🔭 I’m currently looking for opprtunities to enhance my skills and collaborate on web based projects
-- 🌱 I’m currently working on AngularJS, Typescript, Python, Java, Android Development, Node.js
-- 🤔 I would appreciate some guidance for an effective boost to my career. 
-- ⚡ Fun fact: Ha ha ha! Keep Laughing! Keep Coding!
+- 🔭 I’m currently working on **Web Development Projects**
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🌱 I’m currently learning **Angular JS, Typescript and Javascript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sharathkumar106](@sharathkumar106)
+
+- 💬 Ask me about **Java, C, Python, Data Structures, Android Development, Node.js, PHP, MySQL**
+
+- 📫 How to reach me **sharathkr606@gmail.com**
+
+- ⚡ Fun fact **Programming is the best medicine!**
+
+<br>
+<hr/>
+<br>
 
 ## Let's have a virtual coffee! Shall we?
 
@@ -27,27 +41,61 @@
 [![Github][github]][git]
 [![Quora][quora]][quo]
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
+            alt="android" width="40" height="40" /> </a> <a href="https://angular.io" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs"
+            width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
+            width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp"
+            width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
+            width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
+            alt="express" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
+        href="https://hadoop.apache.org/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40"
+            height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
+            width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
+            width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java"
+            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40"
+            height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
+            width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
+            width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"
+            width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40"
+            height="40" /> </a> <a href="https://www.python.org" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python"
+            width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react"
+            width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40"
+            height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img
+            src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html"
+        target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
+            height="40" /> </a> </p>
 
-![c-programming](https://user-images.githubusercontent.com/33835670/91869597-b8067500-ec93-11ea-9ebb-20a2e9593b56.png)
-![c-sharp](https://user-images.githubusercontent.com/33835670/91869593-b63cb180-ec93-11ea-9eb6-28271c47c066.png)
-![java](https://user-images.githubusercontent.com/33835670/91869645-c359a080-ec93-11ea-831b-5702d5bf2a98.png)
-![android](https://user-images.githubusercontent.com/33835670/91869602-b937a200-ec93-11ea-96cb-b0beb52b5327.png)
-![python](https://user-images.githubusercontent.com/33835670/91869629-bf2d8300-ec93-11ea-9b3a-e50863398c3c.png)
-![php](https://user-images.githubusercontent.com/33835670/91869635-bfc61980-ec93-11ea-9e40-01023d5571d1.png)
-![mysql](https://user-images.githubusercontent.com/33835670/91869640-c0f74680-ec93-11ea-863e-26243d91dc00.png)
-![javascript](https://user-images.githubusercontent.com/33835670/91869644-c2287380-ec93-11ea-85e6-b0abfd85b9bb.png)
-![html5](https://user-images.githubusercontent.com/33835670/91869650-c3f23700-ec93-11ea-9794-9ca046e0ee84.png)
-![css3](https://user-images.githubusercontent.com/33835670/91869667-c6ed2780-ec93-11ea-9eba-cd5064e7a9cd.png)
-![git](https://user-images.githubusercontent.com/33835670/91869661-c6549100-ec93-11ea-8968-634939a68e8b.png)
-![heroku](https://user-images.githubusercontent.com/33835670/91869657-c5236400-ec93-11ea-8ce4-3991cb2bb298.png)
-![adobe](https://user-images.githubusercontent.com/33835670/91869606-ba68cf00-ec93-11ea-8d67-fa7aa9f8a31d.png)
-![visual-studio](https://user-images.githubusercontent.com/33835670/91869610-bb99fc00-ec93-11ea-81a5-2c28a24caa8d.png)
-![ubuntu](https://user-images.githubusercontent.com/33835670/91869618-bccb2900-ec93-11ea-9360-c9a92594e0d8.png)
-![trello](https://user-images.githubusercontent.com/33835670/91869624-bdfc5600-ec93-11ea-99b2-e169a562ab1e.png)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
+<hr/>
+<br>
 
 
 <!-- icons -->
