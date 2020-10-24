@@ -1,12 +1,11 @@
 ![Github Profile](https://user-images.githubusercontent.com/33835670/97077985-0ab23c80-1606-11eb-9f6f-6cfbc6c8c23a.gif)
 
 <br>
-<hr/>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sharathkumar-kr&label=%20PROFILE%20VIEWS%20&color=blue&style=flat-square" alt="sharathkumar-kr"/> </p>
 <hr/>
 <br>
 
-## I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday.
+<h2>I'm a passionate developer aiming to create technology to elevate people and digitize the community in whatever way possible. Some technologies I enjoy working with include Java, Web Development, Android Development and I love to learn more and more everyday. </h2>
 
 <br>
 <hr/>
@@ -28,20 +27,7 @@
 <hr/>
 <br>
 
-## Let's have a virtual coffee! Shall we?
-
-[![Facebook][facebook]][fb]
-[![Instagram][instagram]][insta]
-[![Twitter][twitter]][twitr]
-[![LinkedIn][linkedin]][linkdin]
-[![Gmail][gmail]][gm]
-[![Medium][medium]][med]
-[![Whatsapp][whatsapp]][wapp]
-[![Telegram][telegram]][tele]
-[![Github][github]][git]
-[![Quora][quora]][quo]
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a> <a href="https://angular.io" target="_blank"> <img
@@ -97,6 +83,20 @@
 <hr/>
 <br>
 
+## Let's have a virtual coffee! Shall we?
+
+[![Facebook][facebook]][fb]
+[![Instagram][instagram]][insta]
+[![Twitter][twitter]][twitr]
+[![LinkedIn][linkedin]][linkdin]
+[![Gmail][gmail]][gm]
+[![Medium][medium]][med]
+[![Whatsapp][whatsapp]][wapp]
+[![Telegram][telegram]][tele]
+[![Github][github]][git]
+[![Quora][quora]][quo]
+
+</hr>
 
 <!-- icons -->
 
