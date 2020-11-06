@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Angular JS, Typescript and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sharathkumar106](@sharathkumar106)
+- 👨‍💻 All of my projects are available at [@sharathkumar106](https://github.com/sharathkumar106)
 
 - 💬 Ask me about **Java, C, Python, Data Structures, Android Development, Node.js, PHP, MySQL**
 
-- 📫 How to reach me **sharathkr606@gmail.com**
+- 📫 How to reach me **[sharathkr606](mailto:sharathkr606@gmail.com)**
 
 - ⚡ Fun fact **Programming is the best medicine!**
 
